@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>VGP Vegetable Garden</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <success>Always</success>
+      <operations>
+        <li Class="PatchOperationTest">
+          <xpath>*/ThingDef[defName = "AnimalFeedTrough"]</xpath>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "AnimalFeedTrough"]/building/fixedStorageSettings/filter/thingDefs</xpath>
+          <value>
+            <li>Silage</li>
+          </value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+</Patch>

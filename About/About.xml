@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Animal Feed Trough (Continued)</name>
+  <packageId>Mlie.AnimalFeedTrough</packageId>
+  <author>Mlie</author>
+  <url>https://github.com/emipa606/AnimalFeedTrough</url>
+  <supportedVersions>
+    <li>1.1</li>
+  </supportedVersions>
+  <modDependencies />
+  <loadAfter>
+    <li>dismarzero.VGP.VGPVegetableGarden</li>
+  </loadAfter>
+  <description>Update of BaconBits mod for RimWorld 1.1
+https://ludeon.com/forums/index.php?topic=25580.msg259998#msg259998
+
+[img]https://i.imgur.com/GYswkZ7.png[/img]
+
+Support-chat:
+https://invite.gg/mlie
+
+Non-steam version:
+https://github.com/emipa606/AnimalFeedTrough
+	
+--- Original Description ---
+Tired of watching your animals eat off the floor like filthy...um ???...animals?
+Not any more. Get the 'Animal Feed Trough' and those pigs will be eating in style.
+*A wooden trough specifically for Hay and Kibble</description>
+</ModMetaData>
