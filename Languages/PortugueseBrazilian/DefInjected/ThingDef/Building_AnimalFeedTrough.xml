@@ -1,8 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <AnimalFeedTrough.label>Animal Feed Trough</AnimalFeedTrough.label>
-  <AnimalFeedTrough.description>Designated storage area for animal feed.</AnimalFeedTrough.description>
-
-
+  <AnimalFeedTrough.description>Área de armazenagem designada para alimentação animal.</AnimalFeedTrough.description>
 </LanguageData>
