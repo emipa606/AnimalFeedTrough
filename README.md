@@ -5,7 +5,8 @@
 Update of BaconBits mod
 https://ludeon.com/forums/index.php?topic=25580.msg259998#msg259998
 	
-- Included VPG-patch to add Silage to allowed storage.
+- Included patch for https://steamcommunity.com/sharedfiles/filedetails/?id=2007061826]VGP Vegetable Garden Silage
+- Included patch for https://steamcommunity.com/sharedfiles/filedetails/?id=2012735237]Fertile Fields Plant scraps
 - Added Portuguese translation, thanks Kyo
 
 ![Image](https://i.imgur.com/7Gzt3Rg.png)
@@ -24,7 +25,7 @@ https://ludeon.com/forums/index.php?topic=25580.msg259998#msg259998
 
 
 Tired of watching your animals eat off the floor like filthy...um ???...animals?
-Not any more. Get the 'Animal Feed Trough' and those pigs will be eating in style.
+Not any more. Get the &apos;Animal Feed Trough&apos; and those pigs will be eating in style.
 *A wooden trough specifically for Hay and Kibble
 
 
