@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<HugsLib.UpdateFeatureDef Abstract="true" Name="UpdateFeatureBase">
+		<modNameReadable>AnimalFeedTrough</modNameReadable>
+		<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2071757940</linkUrl>
+	</HugsLib.UpdateFeatureDef>
+	<HugsLib.UpdateFeatureDef ParentName="UpdateFeatureBase">
+		<defName>AnimalFeedTrough_1_0_5_0</defName>
+		<assemblyVersion>1.0.5.0</assemblyVersion>
+		<content>Added a smaller trough with half the capacity of the large one, by request.
+</content>
+	</HugsLib.UpdateFeatureDef>
+</Defs>
+

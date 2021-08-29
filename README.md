@@ -25,7 +25,7 @@ https://ludeon.com/forums/index.php?topic=25580.msg259998#msg259998
 
 
 Tired of watching your animals eat off the floor like filthy...um ???...animals?
-Not any more. Get the &apos;Animal Feed Trough&apos; and those pigs will be eating in style.
+Not any more. Get the 'Animal Feed Trough' and those pigs will be eating in style.
 *A wooden trough specifically for Hay and Kibble
 
 
@@ -39,6 +39,7 @@ Not any more. Get the &apos;Animal Feed Trough&apos; and those pigs will be eati
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 

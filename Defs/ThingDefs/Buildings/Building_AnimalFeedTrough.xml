@@ -1,14 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-  <ThingDef ParentName="FurnitureBase">
-    <defName>AnimalFeedTrough</defName>
-    <label>Animal Feed Trough</label>
+  <ThingDef ParentName="FurnitureBase" Name="AnimalFeedTroughBase" Abstract="True">
     <thingClass>Building_Storage</thingClass>
     <description>Designated storage area for animal feed.</description>
     <graphicData>
-      <texPath>Things/Storage/AnimalFeedTrough/AnimalFeedTrough</texPath>
       <graphicClass>Graphic_Multi</graphicClass>
-      <drawSize>(1,4)</drawSize>
       <damageData>
         <cornerTL>Damage/Corner</cornerTL>
         <cornerTR>Damage/Corner</cornerTR>
@@ -16,24 +12,11 @@
         <cornerBR>Damage/Corner</cornerBR>
       </damageData>
     </graphicData>
-    <altitudeLayer>Building</altitudeLayer>
-    <passability>PassThroughOnly</passability>
-    <fillPercent>0.3</fillPercent>
-    <castEdgeShadows>true</castEdgeShadows>
-    <statBases>
-      <WorkToBuild>1000</WorkToBuild>
-      <MaxHitPoints>180</MaxHitPoints>
-      <Mass>12</Mass>
-      <Flammability>1.0</Flammability>
-      <Cleanliness>-3</Cleanliness>
-    </statBases>
-    <size>(1,4)</size>
     <stuffCategories>
       <li>Metallic</li>
       <li>Woody</li>
       <li>Stony</li>
     </stuffCategories>
-    <costStuffCount>75</costStuffCount>
     <building>
       <fixedStorageSettings>
         <priority>Important</priority>
@@ -48,11 +31,49 @@
         </filter>
       </fixedStorageSettings>
     </building>
-    <inspectorTabs>
-      <li>ITab_Storage</li>
-    </inspectorTabs>
     <staticSunShadowHeight>0.5</staticSunShadowHeight>
     <surfaceType>Item</surfaceType>
     <canOverlapZones>false</canOverlapZones>
+    <inspectorTabs>
+      <li>ITab_Storage</li>
+    </inspectorTabs>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <fillPercent>0.3</fillPercent>
+    <castEdgeShadows>true</castEdgeShadows>
+    <statBases>
+      <Flammability>1.0</Flammability>
+      <Cleanliness>-3</Cleanliness>
+    </statBases>
+  </ThingDef>
+  <ThingDef ParentName="AnimalFeedTroughBase">
+    <defName>AnimalFeedTroughSmall</defName>
+    <label>Small Animal Feed Trough</label>
+    <graphicData>
+      <texPath>Things/Storage/AnimalFeedTrough/AnimalFeedTroughSmall</texPath>
+      <drawSize>(1,2)</drawSize>
+    </graphicData>
+    <statBases>
+      <WorkToBuild>500</WorkToBuild>
+      <MaxHitPoints>90</MaxHitPoints>
+      <Mass>6</Mass>
+    </statBases>
+    <size>(1,2)</size>
+    <costStuffCount>40</costStuffCount>
+  </ThingDef>
+  <ThingDef ParentName="AnimalFeedTroughBase">
+    <defName>AnimalFeedTrough</defName>
+    <label>Animal Feed Trough</label>
+    <graphicData>
+      <texPath>Things/Storage/AnimalFeedTrough/AnimalFeedTrough</texPath>
+      <drawSize>(1,4)</drawSize>
+    </graphicData>
+    <statBases>
+      <WorkToBuild>1000</WorkToBuild>
+      <MaxHitPoints>180</MaxHitPoints>
+      <Mass>12</Mass>
+    </statBases>
+    <size>(1,4)</size>
+    <costStuffCount>75</costStuffCount>
   </ThingDef>
 </Defs>

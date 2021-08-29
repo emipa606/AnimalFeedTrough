@@ -4,7 +4,7 @@
     <xpath>/Defs/ThingDef[defName="Silage"]</xpath>
     <success>Always</success>
     <match Class="PatchOperationAdd">
-      <xpath>Defs/ThingDef[defName = "AnimalFeedTrough"]/building/fixedStorageSettings/filter/thingDefs</xpath>
+      <xpath>Defs/ThingDef[@Name="AnimalFeedTroughBase"]/building/fixedStorageSettings/filter/thingDefs</xpath>
       <value>
         <li>Silage</li>
       </value>
