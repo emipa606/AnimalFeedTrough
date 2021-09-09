@@ -1,6 +1,6 @@
 # AnimalFeedTrough
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of BaconBits mod
 https://ludeon.com/forums/index.php?topic=25580.msg259998#msg259998
@@ -8,8 +8,9 @@ https://ludeon.com/forums/index.php?topic=25580.msg259998#msg259998
 - Included patch for https://steamcommunity.com/sharedfiles/filedetails/?id=2007061826]VGP Vegetable Garden Silage
 - Included patch for https://steamcommunity.com/sharedfiles/filedetails/?id=2012735237]Fertile Fields Plant scraps
 - Added Portuguese translation, thanks Kyo
+- Added a smaller trough
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
 
 [table]
@@ -21,7 +22,7 @@ https://ludeon.com/forums/index.php?topic=25580.msg259998#msg259998
 	[/tr]
 [/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 
 Tired of watching your animals eat off the floor like filthy...um ???...animals?
@@ -29,7 +30,7 @@ Not any more. Get the 'Animal Feed Trough' and those pigs will be eating in styl
 *A wooden trough specifically for Hay and Kibble
 
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
@@ -39,8 +40,6 @@ Not any more. Get the 'Animal Feed Trough' and those pigs will be eating in styl
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
-
-
 
 
 

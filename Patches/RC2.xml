@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/ThingDef[defName="RC2_RawOats"]</xpath>
+    <success>Always</success>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[@Name="AnimalFeedTroughBase"]/building/fixedStorageSettings/filter/thingDefs</xpath>
+      <value>
+        <li>RC2_RawOats</li>
+        <li>RC2_RawQuinoa</li>
+        <li>RC2_RawBarley</li>
+        <li>RC2_RawSorghum</li>
+        <li>RC2_RawWheat</li>
+      </value>
+    </match>
+  </Operation>
+</Patch>

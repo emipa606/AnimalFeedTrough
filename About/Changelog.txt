@@ -1,5 +1,8 @@
 # Changelog for AnimalFeedTrough
 
+1.0.6.0 - Added patches for Medieval Overhaul and RimCousine 2
+
+
 1.0.5.0 - Added a smaller version of the Trough
 
 
