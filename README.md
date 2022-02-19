@@ -7,20 +7,13 @@ https://ludeon.com/forums/index.php?topic=25580.msg259998#msg259998
 	
 - Included patch for https://steamcommunity.com/sharedfiles/filedetails/?id=2007061826]VGP Vegetable Garden Silage
 - Included patch for https://steamcommunity.com/sharedfiles/filedetails/?id=2012735237]Fertile Fields Plant scraps
+- Included patch for https://steamcommunity.com/sharedfiles/filedetails/?id=2553700067]Medieval Overhaul Straw
+- Included patch for https://steamcommunity.com/sharedfiles/filedetails/?id=2562519366]Rim Cuisine 2 Various crops
 - Added Portuguese translation, thanks Kyo
 - Added a smaller trough
 
 ![Image](https://i.imgur.com/pufA0kM.png)
 
-
-[table]
-	[tr]
-		[td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-		[td]https://github.com/emipa606/AnimalFeedTrough]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-	[/tr]
-[/table]
 	
 ![Image](https://i.imgur.com/Z4GOv8H.png)
 

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Animal Feed Trough (Continued)</name>
   <packageId>Mlie.AnimalFeedTrough</packageId>
@@ -19,6 +19,8 @@ https://ludeon.com/forums/index.php?topic=25580.msg259998#msg259998
 	
 - Included patch for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2007061826]VGP Vegetable Garden[/url] Silage
 - Included patch for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2012735237]Fertile Fields[/url] Plant scraps
+- Included patch for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2553700067]Medieval Overhaul[/url] Straw
+- Included patch for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2562519366]Rim Cuisine 2[/url] Various crops
 - Added Portuguese translation, thanks Kyo
 - Added a smaller trough
 
