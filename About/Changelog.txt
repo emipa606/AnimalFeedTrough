@@ -1,5 +1,8 @@
 # Changelog for AnimalFeedTrough
 
+1.4.2 - Added russian translation by younyokel
+
+
 1.4.1 - Mod updated for 1.4 and passed autotests
 
 
