@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Patch>
   <Operation Class="PatchOperationConditional">
-    <xpath>/Defs/ThingDef[defName="PlantScraps"]</xpath>
+    <xpath>/Defs/ThingDef[defName="PetFood"]</xpath>
     <success>Always</success>
     <match Class="PatchOperationAdd">
       <xpath>Defs/ThingDef[@Name="AnimalFeedTroughBase"]/building/fixedStorageSettings/filter/thingDefs</xpath>
       <value>
-        <li>PlantScraps</li>
+        <li>PetFood</li>
+        <li>GrazingFeedstock</li>
+        <li>RenderedMeat</li>
       </value>
     </match>
   </Operation>

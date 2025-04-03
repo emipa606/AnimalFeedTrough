@@ -1,5 +1,8 @@
 # Changelog for AnimalFeedTrough
 
+1.5.2 - Added support for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2971675296]Animal Foods Extended[/url]
+
+
 1.5.1 - Added chinese translations, thanks 摄魂狼
 
 

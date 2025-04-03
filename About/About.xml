@@ -25,6 +25,7 @@ https://ludeon.com/forums/index.php?topic=25580.msg259998#msg259998
 - Included patch for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2562519366]Rim Cuisine 2[/url] Various crops
 - Added Portuguese translation, thanks Kyo
 - Added russian translation by younyokel
+- Added chinese translation by 摄魂狼
 - Added a smaller trough
 
 [img]https://i.imgur.com/pufA0kM.png[/img]
@@ -56,8 +57,8 @@ Not any more. Get the 'Animal Feed Trough' and those pigs will be eating in styl
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
 [*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
-[/list]
+[/list] 
 
-[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2071757940][img]https://img.shields.io/github/v/release/emipa606/AnimalFeedTrough?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url]</description>
-  <modVersion IgnoreIfNoMatchingField="True">1.5.1</modVersion>
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2071757940][img]https://img.shields.io/github/v/release/emipa606/AnimalFeedTrough?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | tags:  animal feeder</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.5.2</modVersion>
 </ModMetaData>
