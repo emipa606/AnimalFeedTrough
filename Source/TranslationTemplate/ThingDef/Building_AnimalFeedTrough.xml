@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Animal Feed Trough -->
+  <AnimalFeedTrough.label>Animal Feed Trough</AnimalFeedTrough.label>
+  <!-- EN: Designated storage area for animal feed. -->
+  <AnimalFeedTrough.description>Designated storage area for animal feed.</AnimalFeedTrough.description>
+  <!-- EN: Small Animal Feed Trough -->
+  <AnimalFeedTroughSmall.label>Small Animal Feed Trough</AnimalFeedTroughSmall.label>
+  <!-- EN: Designated storage area for animal feed. -->
+  <AnimalFeedTroughSmall.description>Designated storage area for animal feed.</AnimalFeedTroughSmall.description>
+</LanguageData>

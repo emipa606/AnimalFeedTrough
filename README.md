@@ -9,6 +9,7 @@ https://ludeon.com/forums/index.php?topic=25580.msg259998#msg259998
 - Included patch for [Fertile Fields](https://steamcommunity.com/sharedfiles/filedetails/?id=2012735237) Plant scraps
 - Included patch for [Medieval Overhaul](https://steamcommunity.com/sharedfiles/filedetails/?id=2553700067) Straw
 - Included patch for [Rim Cuisine 2](https://steamcommunity.com/sharedfiles/filedetails/?id=2562519366) Various crops
+- Included patch for [Animal Foods Extended](https://steamcommunity.com/sharedfiles/filedetails/?id=2971675296)
 - Added Portuguese translation, thanks Kyo
 - Added russian translation by younyokel
 - Added chinese translation by 摄魂狼
