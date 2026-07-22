@@ -1,6 +1,6 @@
 # [Animal Feed Trough (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2071757940)
 
-![Image](https://i.imgur.com/buuPQel.png)
+![Image](https://img.litet.net/logos/Info.png)
 
 Update of BaconBits mod
 https://ludeon.com/forums/index.php?topic=25580.msg259998#msg259998
@@ -15,22 +15,22 @@ https://ludeon.com/forums/index.php?topic=25580.msg259998#msg259998
 - Added chinese translation by 摄魂狼
 - Added a smaller trough
 
-![Image](https://i.imgur.com/pufA0kM.png)
+![Image](https://img.litet.net/logos/Notice.png)
 	
-![Image](https://i.imgur.com/Z4GOv8H.png)
+![Image](https://img.litet.net/logos/OriginalDescription.png)
 
 Tired of watching your animals eat off the floor like filthy...um ???...animals?
 Not any more. Get the 'Animal Feed Trough' and those pigs will be eating in style.
 *A wooden trough specifically for Hay and Kibble
 
 
-![Image](https://i.imgur.com/PwoNOj4.png)
+![Image](https://img.litet.net/logos/ReportingIssues.png)
 
 
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
+-  Always post your log using the [Log Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404)
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
@@ -38,4 +38,4 @@ Not any more. Get the 'Animal Feed Trough' and those pigs will be eating in styl
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/AnimalFeedTrough?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2071757940) | tags:  animal feeder
+[![Image](https://img.shields.io/github/v/release/emipa606/AnimalFeedTrough?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2071757940) | tags: animal feeder
