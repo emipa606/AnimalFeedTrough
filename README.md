@@ -38,4 +38,4 @@ Not any more. Get the 'Animal Feed Trough' and those pigs will be eating in styl
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/AnimalFeedTrough?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2071757940) | tags: animal feeder
+[![Image](https://img.shields.io/github/v/release/emipa606/AnimalFeedTrough?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2071757940) | animal feeder
